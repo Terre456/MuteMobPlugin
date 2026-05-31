@@ -1,0 +1,5 @@
+main: com.github.terre456.MuteMobsPlugin
+name: MuteMobsPlugin
+version: 1.0
+api-version: 26.1.2
+
