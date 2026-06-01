@@ -10,7 +10,7 @@ public class MuteMobsPlugin extends JavaPlugin{
 
   @Override
   public void onEnable(){
-    ;
+    getServer().getPluginManager().registerEvents(new MuteMobListener(), this);
   }
-  
+
 }
